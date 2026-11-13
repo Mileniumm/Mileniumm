@@ -20,7 +20,8 @@ Estudio la Tecnicatura Superior en Desarrollo de Software en Quality ISAD.
 | [ISCGB](https://github.com/AnahidBG/ISCGB_Frontend) | Sistema de gestión del Instituto Superior Cura Gabriel Brochero, hecho en equipo. Trabajé en el frontend | Angular · ASP.NET Core · SQL Server |
 | [In Fox Gym](https://github.com/Mileniumm/infoxgym-front) | Sitio web de un gimnasio con panel de administración de horarios, con su [API](https://github.com/Mileniumm/infoxgym-back) | Next.js · React · Tailwind CSS · NestJS · Supabase |
 | [GestorSalud](https://github.com/Mileniumm/GestorSaludApp) | Gestión de pacientes, médicos y consultas de un centro de salud, en capas | ASP.NET Web Forms · Entity Framework · SQL Server |
-| [Programación III](https://github.com/Mileniumm/EjerciciosProgramacionIII) | Ejercicios y proyectos de la materia: maquetado, JavaScript, Angular, API REST y patrones de diseño | HTML · CSS · JavaScript · Angular · C# |
+| [Programación III · Frontend](https://github.com/Mileniumm/ProgramacionIII-Frontend) | Ejercicios y proyectos de la materia: maquetado, JavaScript y Angular | HTML · CSS · JavaScript · Angular |
+| [Programación III · Backend](https://github.com/Mileniumm/ProgramacionIII-Backend) | API REST del TP3 y patrones de diseño | C# · ASP.NET Core · Entity Framework |
 | [Programación I](https://github.com/Mileniumm/EjerciciosProgramacionI) | Ejercicios, parciales y trabajos prácticos de consola | C# |
 
 ### Contacto
